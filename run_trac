@@ -1,0 +1,2 @@
+trac-admin ~/trac initenv
+tracd -s --port 8000 ~/trac
